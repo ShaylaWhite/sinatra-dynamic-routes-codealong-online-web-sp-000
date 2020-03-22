@@ -19,5 +19,5 @@ class App < Sinatra::Base
   end 
   
   get "/mutiply/:num1/:num2" do
-end
+  end
 end
